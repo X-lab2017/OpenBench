@@ -28,5 +28,7 @@ Please feel free to join if you are interested (WeChat group):
 <img src="https://user-images.githubusercontent.com/15010826/198911680-13afcf42-a3f9-46f1-b451-b6fe23248009.png" width="250px">
 </div>
 
-Free access to OpenBench 2022 workshop: https://github.com/X-lab2017/OpenBench/issues/1
+🆓 Free access to OpenBench 2022 workshop: https://github.com/X-lab2017/OpenBench/issues/1
+
+🎉 The OpenBench workshop was a great success, thank to all the speakers and audiences  https://github.com/X-lab2017/OpenBench/issues/2
 
